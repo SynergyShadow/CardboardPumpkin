@@ -9,8 +9,9 @@ CardboardD expands on the idea while bringing the mod to newer versions.
 Fabric version chart:
 | Support | Minecraft       | Git Branch | Dev Status |
 |----------|----------------|------------|------------|
-| &#x2705; | Fabric 1.21.4  | ver/1.21.4 | Active     |
-| &#x2705; | Fabric 1.21.1  | ver/1.21   | Low        |
+| &#x274C; | Fabric 1.21.7  | ver/1.21.7 | Active     |
+| &#x2705; | Fabric 1.21.4  | ver/1.21.4 | Active (cardboard only) |
+| &#x2705; | Fabric 1.21.1  | ver/1.21   | Low (cardboard only)      |
 | &#x274C; | <= 1.20        |            |            |
 
 See [Supported Versions From Cardboard](https://github.com/CardboardPowered/cardboard/wiki/Supported-Versions) for more details. & [View Cardboard Downloads](https://cardboardpowered.org/download/)
